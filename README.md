@@ -23,7 +23,8 @@ Email: davijulianoalves@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/davijulianoalves/
 
-Contributions and Collaborations
+For Contributions and Collaborations:
+
 Davi Juliano welcomes contributions and collaborations. If you're interested in working together or contributing to his projects, please check the contribution guidelines in the respective project repositories.
 
 Thank you for visiting this repository, and Davi Juliano Ferreira Alves looks forward to sharing and advancing knowledge in the exciting intersection of mathematics and computation!
