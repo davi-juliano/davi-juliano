@@ -20,7 +20,9 @@ I am a highly skilled mathematician with a strong foundation in computational te
 Feel free to reach out to Davi Juliano for collaboration, inquiries, or discussions related to computational mathematics, data analysis, and related fields.
 
 Email: davijulianoalves@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/davijulianoalves/
+
 Contributions and Collaborations
 Davi Juliano welcomes contributions and collaborations. If you're interested in working together or contributing to his projects, please check the contribution guidelines in the respective project repositories.
 
