@@ -6,15 +6,15 @@ Welcome to the GitHub repository of Davi Juliano, a passionate and dedicated pro
 Davi Juliano is a highly skilled mathematician with a strong foundation in computational techniques. He combines mathematical expertise with advanced computational methods to address complex problems in diverse areas. His work encompasses a wide range of applications, from optimizing algorithms to analyzing and interpreting large datasets.
 
 ## Areas of Expertise
-### Data Analysis: Davi Juliano excels in extracting meaningful insights from raw data. He employs statistical methods, machine learning algorithms, and data visualization techniques to uncover patterns and trends.
+-> Data Analysis: Davi Juliano excels in extracting meaningful insights from raw data. He employs statistical methods, machine learning algorithms, and data visualization techniques to uncover patterns and trends.
 
-### Data Science: With a keen understanding of the data science lifecycle, Davi Juliano develops end-to-end solutions for real-world problems. He is proficient in data preprocessing, feature engineering, model training, and deployment.
+-> Data Science: With a keen understanding of the data science lifecycle, Davi Juliano develops end-to-end solutions for real-world problems. He is proficient in data preprocessing, feature engineering, model training, and deployment.
 
-### Optimization: Davi Juliano is passionate about optimizing processes and systems. His expertise extends to mathematical optimization, where he designs algorithms to find the most efficient solutions to complex problems.
+-> Optimization: Davi Juliano is passionate about optimizing processes and systems. His expertise extends to mathematical optimization, where he designs algorithms to find the most efficient solutions to complex problems.
 
-### Operations Research: Leveraging mathematical models, Davi Juliano tackles optimization challenges in operations research. He applies mathematical techniques to enhance decision-making processes and streamline operations.
+-> Operations Research: Leveraging mathematical models, Davi Juliano tackles optimization challenges in operations research. He applies mathematical techniques to enhance decision-making processes and streamline operations.
 
-### Databases: Davi Juliano has a solid understanding of database systems and management. He designs and implements database structures to efficiently store and retrieve data for various applications.
+-> Databases: Davi Juliano has a solid understanding of database systems and management. He designs and implements database structures to efficiently store and retrieve data for various applications.
 
 ## Contact Information
 Feel free to reach out to Davi Juliano for collaboration, inquiries, or discussions related to computational mathematics, data analysis, and related fields.
